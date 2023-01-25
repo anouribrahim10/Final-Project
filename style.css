@@ -1,0 +1,103 @@
+.bg{
+  background: #3CEBF6;
+}
+
+h1{
+  color:white;
+  font-size:25px
+
+}
+
+
+
+h2{
+  text-align: center;
+  color: black;
+  font-family: 'Oleo Script Swash Caps', cursive;
+  font-size:40px;
+}
+.pain{
+  background-color:white;
+}
+
+p{text-align: center;
+ font-size:25px;
+ }
+.goal{
+  border: 5px outset yellow;
+    margin:10x;
+  padding:10px;
+  
+}
+.skill{
+  border: 5px outset red;
+    margin:10x;
+  padding:10px;
+  
+}
+
+.interest{
+  border: 5px outset green;
+  margin:10x;
+  padding:10px;
+  
+}
+.fa {
+  padding: 20px;
+  font-size: 20px;
+  width: 65px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-instagram {
+  background: #e95950;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+body{
+  background-color:#003566 ;
+}
+h3{
+  text-align: center;
+  color: #FAE25E;
+font-family: 'Oleo Script Swash Caps', cursive;
+
+  font-size:40px;
+}
+.first{
+  background-color:#001D3D;
+  
+}
+h4{
+  text-align: center;
+  color: white;
+font-family: 'Playfair Display SC', serif;
+
+
+  font-size:40px;
+}
+.second{
+  background-color:#000814 ;
+}
+.mission{color: #ABAAA8;font-family: 'Bad Script', cursive;}
+
+.cap{font-family: 'Faustina', serif;
+    color:#A2B5DB;
+    }
+a:link {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+a {
+  color:#D62828;
+  font-size:20px;}
